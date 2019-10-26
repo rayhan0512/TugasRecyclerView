@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sport</string>
+
+    <string-array name="sport_name">
+        <item>Angkat Besi</item>
+        <item>Baseball</item>
+        <item>Berkuda</item>
+        <item>Bulu Tangkis</item>
+        <item>Futsal</item>
+        <item>Lari</item>
+        <item>Panah</item>
+        <item>Renang</item>
+        <item>Sepak Takraw</item>
+        <item>Volly</item>
+    </string-array>
+
+    <array name="sport_image">]
+        <item>@drawable/angkatbesi</item>
+        <item>@drawable/baseball</item>
+        <item>@drawable/berkuda</item>
+        <item>@drawable/bulutangkis</item>
+        <item>@drawable/futsal</item>
+        <item>@drawable/lari</item>
+        <item>@drawable/panah</item>
+        <item>@drawable/renang</item>
+        <item>@drawable/sepaktakraw</item>
+        <item>@drawable/volly</item>
+    </array>
+</resources>
